@@ -1,0 +1,13 @@
+{
+  "name": "new-project",
+  "author": "BuuyaXDev",
+  "publish": false,
+  "dependencies": {
+    "lib": "latest",
+    "axios": "^1.1.3",
+    "gif-encoder-2": "^1.0.5",
+    "jimp": "^0.16.2",
+    "cool-pics": "^1.0.1",
+    "fun-responses": "^2.0.0"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "name": "buuyaxd/discordbot-ben2",
+  "timeout": 10000,
+  "connector": false,
+  "events": {
+    "functions/events/autocode/self/deployed.js": {
+      "name": "autocode.self.deployed"
+    },
+    "functions/events/autocode/discord/presence/update/activity.js": {
+      "name": "discord.presence.update.activity"
+    },
+    "functions/events/autocode/discord/bot/prefix/help.js": {
+      "name": "discord.message.create.prefix",
+      "subtype": {
+        "prefix": ">help"
+      }
+    },
+    "functions/events/autocode/discord/bot_mention.js": {
+      "name": "discord.bot_mention"
+    },
+    "functions/events/autocode/discord/bot/prefix/ping.js": {
+      "name": "discord.message.create.prefix",
+      "subtype": {
+        "prefix": ">ping"
+      }
+    },
+    "functions/events/autocode/discord/bot/prefix/vote.js": {
+      "name": "discord.message.create.prefix",
+      "subtype": {
+        "prefix": ">vote"
+      }
+    },
+    "functions/events/autocode/discord/message/search.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/autocode/discord/message/animals.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/autocode/discord/bot/prefix/help-fun.js": {
+      "name": "discord.message.create.prefix",
+      "subtype": {
+        "prefix": ">help-fun"
+      }
+    },
+    "functions/events/autocode/discord/bot/prefix/help-search.js": {
+      "name": "discord.message.create.prefix",
+      "subtype": {
+        "prefix": ">help-search"
+      }
+    },
+    "functions/events/autocode/discord/message/meme.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/autocode/discord/bot/prefix/general.js": {
+      "name": "discord.message.create.prefix",
+      "subtype": {
+        "prefix": ">general"
+      }
+    },
+    "functions/events/autocode/discord/bot/prefix/log.js": {
+      "name": "discord.message.create.prefix",
+      "subtype": {
+        "prefix": ">log"
+      }
+    },
+    "functions/events/autocode/discord/bot/prefix/invite.js": {
+      "name": "discord.message.create.prefix",
+      "subtype": {
+        "prefix": ">invite"
+      }
+    },
+    "functions/events/autocode/discord/bot/prefix/about.js": {
+      "name": "discord.message.create.prefix",
+      "subtype": {
+        "prefix": ">about"
+      }
+    },
+    "functions/events/autocode/discord/message/race.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/autocode/discord/message/fun.js": {
+      "name": "discord.message.create"
+    }
+  },
+  "env": [
+    {
+      "name": "PREFIX",
+      "description": "Prefix of your bot"
+    },
+    {
+      "name": "Key",
+      "description": "Unique Key"
+    }
+  ]
+}
