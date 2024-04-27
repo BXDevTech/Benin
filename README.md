@@ -1,8 +1,8 @@
-# 😂 BXDev Technology Meme Bot - Ben2 | Benin
+## 😂 BXDev Technology Meme Bot - Ben2 | Benin
 
 <h4 align="center">Introducing BXDev's Benin (V2.0), where we bring the memes to your server! 😂</h4>
 
-## Featured Project: Benin - Discord Bot
+### Featured Project: Benin - Discord Bot
 
 <img src="assets/benin_logo.png" alt="Benin Logo" width="200"/> <img src="assets/benin_banner.png" alt="Benin Banner" width="620"/>
 
@@ -12,7 +12,7 @@ Benin is our flagship project, bringing memes and laughter to your Discord Serve
 
 - **Repository**: [Benin Discord Bot](https://github.com/BXDevTech/Benin)
 
-## Prefix  >> * <<
+### Prefix  >> * <<
 
 #### Deploy Ben2 using Heroku
 
@@ -63,7 +63,7 @@ For more detailed instructions or troubleshooting, refer to the [Heroku Document
 ### Screenshot 4
 ![Screenshot 4](assets/benin_fun.png "Benin Fun Command")
 
-## Commands
+### Commands
 
 - **help** : This commands shows you what commands this bot have
 - **meme** : This one will show you random memes to make your day
@@ -73,12 +73,12 @@ For more detailed instructions or troubleshooting, refer to the [Heroku Document
 - **fun** : Just have fun with this one
 - **general** : Just have fun with this one
 
-## Links
+### Links
 
 - [GitHub Page](https://github.com/bxdevtech): Check out our open-source project.
 - [Support Server](https://discord.gg/SsW9HPKnUR): Join our Discord community for assistance.
 
-## Update Log - Version 2.5.7
+### Update Log - Version 2.5.7
 
 - Added **Utility**
 - Fixed **search**
@@ -86,7 +86,7 @@ For more detailed instructions or troubleshooting, refer to the [Heroku Document
 - Minor embed changes
 - Major bug fix
 
-## Features
+### Features
 
 - 😂 High-quality file downloads
 - 🔍 In-depth searching capabilities
@@ -94,7 +94,7 @@ For more detailed instructions or troubleshooting, refer to the [Heroku Document
 - 🎲 Fun and interactive commands
 - 🔄 Regular updates and improvements
 
-## Getting Started
+### Getting Started
 
 Ready to dive in? Follow these simple steps to get started:
 
@@ -104,7 +104,7 @@ Ready to dive in? Follow these simple steps to get started:
 
 Need help or have questions? Reach out to us at [bxdevtech@gmail.com] - we're here for you!
 
-## 🚀 Contribution Guidelines
+### 🚀 Contribution Guidelines
 
 We ❤️ contributions from the community! Whether you're a coding wizard or just starting, your input is valuable. Here's how you can get involved:
 
@@ -116,11 +116,11 @@ We ❤️ contributions from the community! Whether you're a coding wizard or ju
 
 Let's build something amazing together!
 
-## Code of Conduct: BXDev Technology Code of Conduct
+### Code of Conduct: BXDev Technology Code of Conduct
 
 Before you dive in, please review and adhere to our [Code of Conduct](CODE_OF_CONDUCT.md). We're all about creating a positive and inclusive community.
 
-## License: BXDev Technology Proprietary License
+### License: BXDev Technology Proprietary License
 
 Please review our [License](LICENSE) to understand how you can use and contribute to our projects.
 
